@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+pandas
+polars
+pyarrow
+openpyxl
+requests
+python-dotenv
